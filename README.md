@@ -111,6 +111,14 @@ The script prints the **classification accuracy** in the MATLAB command window, 
 
 ---
 
+## Future Work
+- Add CFAR detection  
+- Add MIMO virtual array simulation  
+- Add deep-learning based micro-Doppler classifier  
+- Export dataset for Python-based ML
+- 
+---
+
 ## 👤 Author
 
 **Brian Rono**  
